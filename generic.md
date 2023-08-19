@@ -4,7 +4,7 @@ title: World Happiness (2015-2023)
 image: assets/images/Happiness Kopie.png
 ---
 
-<h2>Interdum sed dapibus</h2>
+<h2>Objective</h2>
 
 <p>Each year, the Gallup World Poll surveys adult citizens in nearly 160 countries and consists of over 100 global and region-specific questions to calculat the Happiness score of each country. A lot has changed globally since 2020 and led to a lot of uncertainty. Therefore we analysis the data to find out if the happiness score has changed between 2015 and 2023. </p>
 
@@ -33,13 +33,13 @@ image: assets/images/Happiness Kopie.png
 
 <hr class="major" />
 <h2>Recommendations for further analysis</h2>
-<p> + Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here. 
-+ Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years. 
-+ And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</p>
+<p> +Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here. 
++Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years. 
++And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</p>
 
 <hr class="major" />
 <h2>Limitations</h2>
 
-<p>+ We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.
-+ Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.
+<p>+We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.
++Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.
 </p>
