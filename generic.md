@@ -42,7 +42,22 @@ image: assets/images/Happiness Kopie.png
 </p>
 <h4>Key Question</h4>
 	<p>World Happiness Reports 2015 -2023 published by the Sustainable Developement Solutions Network </p>
-</div>								
+</div>	
+
+<div class="features">
+	<article>
+			<div class="content">
+				<h3>Key Questions</h3>
+				<p>World Happiness Reports 2015 -2023 published by the Sustainable Developement Solutions Network </p>
+			</div>
+		</article>
+		<article>
+			<span class="image fit"><img src="assets/images/Tools Happiness.png .png" alt="" /></span>
+			</div>
+		</article>
+	</div>
+
+
 <!-- Section -->
 <section>
 <hr class="major" />
