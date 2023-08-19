@@ -45,7 +45,6 @@ image: assets/images/Happiness Kopie.png
 		</article>
 		<article>
 			<span class="image fit"><img src="assets/images/Happiness Analysis.png" alt="" /></span>
-			</div>
 		</article>
 
 <!-- Section -->
