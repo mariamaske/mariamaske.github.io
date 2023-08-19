@@ -46,5 +46,5 @@ image: assets/images/Happiness Kopie.png
 <hr class="major" />
 <h2>Limitations</h2>
 <ul>
-	<li> We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.<li>
-<li> Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.<li>
+<li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.<li>
+<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.<li>
