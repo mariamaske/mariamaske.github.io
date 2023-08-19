@@ -103,8 +103,8 @@ layout: default
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/Pbang.png" alt="" /></a>
-			<h3>PIG E. Bank/h3>
-			<p>The PIG E. Bank wanted to understand the factors behind them losing clients. I used a data mining mechanism, build a decision tree to predict which clients might leave the bank. </p>
+			<h3>PIG E. Bank</h3>
+			<p>The PIG E. Bank wanted to understand the factors behind them losing clients. I used a data mining mechanism, build a decision tree to predict which clients might leave the bank.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
