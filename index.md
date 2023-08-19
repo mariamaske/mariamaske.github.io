@@ -12,34 +12,34 @@ layout: default
 			<span class="icon fa-diamond"></span>
 			<div class="content">
 				<h3>Analytical skills</h3>
-				<p>• Data Mining
-				• Data Cleaning
-				• Data Wrangling
-				• Data Merging
-				• Descriptive Analysis
-				• Deriving Variables
-				• Data Visualization
-				• Data storytelling</p>
+				<p> Data Mining,
+				Data Cleaning,
+				Data Wrangling,
+				Data Merging,
+				Descriptive Analysis,
+				Deriving Variables,
+				Data Visualization,
+				Data storytelling</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-puzzle-piece"></span>
 			<div class="content">
 				<h3>Tools</h3>
-				<p>• SQL
-				• Python
-				• Tableau
-				• Excel</p>
+				<p>• SQL,
+				Python,
+				Tableau,
+				Excel</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-graduation-cap"></span>
 			<div class="content">
 				<h3>Competences</h3>
-				<p>• Problem solver 
-				• Critical thinker
-				• Focused and conscientious
-				• Avid learner</p>
+				<p> Problem solver, 
+				Critical thinker,
+				Focused and conscientious,
+				Avid learner</p>
 			</div>
 		</article>
 		<article>
