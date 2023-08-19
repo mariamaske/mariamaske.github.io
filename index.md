@@ -5,34 +5,41 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Erat lacinia</h2>
+		<h2>How can I help?</h2>
 	</header>
 	<div class="features">
 		<article>
 			<span class="icon fa-diamond"></span>
 			<div class="content">
-				<h3>Portitor ullamcorper</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Analytical skills</h3>
+				<p>• Data Mining
+				• Data Cleaning
+				• Data Wrangling
+				• Data Merging
+				• Descriptive Analysis
+				• Deriving Variables
+				• Data Visualization
+				• Data storytelling</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Sapien veroeros</h3>
+				<h3>Tools</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-rocket"></span>
 			<div class="content">
-				<h3>Quam lorem ipsum</h3>
+				<h3>Competences</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
 			<div class="content">
-				<h3>Sed magna finibus</h3>
+				<h3>Goals</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
