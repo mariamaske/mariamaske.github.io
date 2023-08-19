@@ -40,9 +40,15 @@ image: assets/images/Happiness Kopie.png
   <img alt="Some image description ..." src="assets/images/Happiness Analysis.png" width="530" />
 </p>
 <h4>Key Question</h4>
-	<p>World Happiness Reports 2015 -2023 published by the Sustainable Developement Solutions Network </p>
+	<p>World Happiness Reports 2015 -2023 published by the Sustainable Developement Solutions Network 
+	
+	
+ 
+ 
+ 
+ 
+ </p>
 							
-</section>
 <!-- Section -->
 <section>
 <hr class="major" />
