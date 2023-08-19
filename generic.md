@@ -36,14 +36,6 @@ image: assets/images/Happiness Kopie.png
 	<hr class="major" />
 	<h2>Analysis</h2>
 
-	<div class="features">
-<p style="float: right"> 
-  <img alt="Some image description ..." src="assets/images/Happiness Analysis.png" width="530" />
-</p>
-<h4>Key Question</h4>
-	<p>World Happiness Reports 2015 -2023 published by the Sustainable Developement Solutions Network </p>
-</div>	
-
 <div class="features">
 	<article>
 			<div class="content">
@@ -52,11 +44,9 @@ image: assets/images/Happiness Kopie.png
 			</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Tools Happiness.png .png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Happiness Analysis.png" alt="" /></span>
 			</div>
 		</article>
-	</div>
-
 
 <!-- Section -->
 <section>
