@@ -38,9 +38,9 @@ image: assets/images/Happiness Kopie.png
 
 <hr class="major" />
 <h2>Recommendations for further analysis</h2>
-<p> • Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here. <p>
-<p> • Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.<p> 
-<p> • And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</p>
+- Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.
+- Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.
+- And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.
 
 <hr class="major" />
 <h2>Limitations</h2>
