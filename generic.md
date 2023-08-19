@@ -35,18 +35,13 @@ image: assets/images/Happiness Kopie.png
 <section>
 	<hr class="major" />
 	<h2>Analysis</h2>
-	<div class="row">
-			<div class="6u 12u$(small)">
-				<h4>Key Question</h4>
-				<p>World Happiness Reports 2015 -2023 published by the Sustainable Developement Solutions Network </p>
-				</div>
-<div class="row">
-			<div class="6u 12u$(small)">
-				<ul class="actions vertical">	
-					<span class="image fit"><img src="assets/images/Happiness Analysis.png" alt="" /></span>
-					</ul>
-			</div>
-
+	<h4>Key Question</h4>
+	<p>World Happiness Reports 2015 -2023 published by the Sustainable Developement Solutions Network </p>
+			
+</div>
+<div class="6u$ 12u$(medium)">
+			<span class="image fit"><img src="assets/images/Happiness Analysis.png" alt="" /></span>
+				
 
 <!-- Section -->
 <section>
