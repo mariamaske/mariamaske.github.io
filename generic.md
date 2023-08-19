@@ -23,7 +23,12 @@ image: assets/images/Happiness Kopie.png
 				<h3>Techniques applied</h3>
 				<p> Linear Regression, Cluster Analysis, Spatial Analysis, Phython & Tableau Visualization </p>
 			</div>
+		</article>
+	</div>
+</section>
 
+<!-- Section -->
+<section>
 <h2>Tools</h2>
 <span class="image fit"><img src="assets/images/Tools Happiness.png .png" alt="" /></span>
 
