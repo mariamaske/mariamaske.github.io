@@ -84,8 +84,6 @@ image: assets/images/Happiness Kopie.png
 			<span class="image fit"><img src="assets/images/Ranking.png" alt="" /></span>
 		</article>
 
-<!-- Section -->
-</section>
 <hr class="major" />
 <h2>Recommendations for further analysis</h2>
 <p>
@@ -94,6 +92,7 @@ image: assets/images/Happiness Kopie.png
 					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
 					<li>And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</li>
 </ul> </p>
+
 <hr class="major" />
 <h2>Limitations</h2>
 <p>
