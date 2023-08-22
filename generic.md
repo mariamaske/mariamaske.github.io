@@ -85,7 +85,7 @@ image: assets/images/Happiness Kopie.png
 		</article>
 
 <!-- Section -->
-<section>
+</section>
 <hr class="major" />
 <h2>Recommendations for further analysis</h2>
 <p>
