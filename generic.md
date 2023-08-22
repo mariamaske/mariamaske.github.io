@@ -41,7 +41,6 @@ image: assets/images/Happiness Kopie.png
 			<div class="content">
 				<h3>Key Questions</h3>
 				<p>Which social factors have the highest impact on the Happiness scores over the years?</p>
-			</div>
 				<h3>Results</h3>
 				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the
 			           happiness score of a country.</p>
@@ -54,14 +53,11 @@ image: assets/images/Happiness Kopie.png
 <!-- Section -->
 <section>
 	<hr class="major" />
-	<h2>Analysis</h2>
-
 <div class="features">
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
 				<p>Which region are the happiest? Where are the happiest countries?</p>
-			</div>
 				<h3>Results</h3>
 				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
 			           the highest Happiness scores are located in Western Europe. </p>
@@ -81,7 +77,6 @@ image: assets/images/Happiness Kopie.png
 			<div class="content">
 				<h3>Key Questions</h3>
 				<p>Which countries are the happiest over the years?</p>
-			</div>
 				<h3>Results</h3>
 				<p>The country with the highest Happiness score is Finland since 2018.</p>
 			</div>
