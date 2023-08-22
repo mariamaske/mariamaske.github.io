@@ -70,7 +70,6 @@ image: assets/images/Happiness Kopie.png
 <!-- Section -->
 <section>
 	<hr class="major" />
-	<h2>Analysis</h2>
 
 <div class="features">
 	<article>
