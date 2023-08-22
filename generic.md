@@ -30,7 +30,7 @@ image: assets/images/Happiness Kopie.png
 <section>
 <hr class="major" />
 <h2>Tools</h2>
-<span class="image fit"><img src="assets/images/Tools Happiness.png .png" alt="" /></span>
+<span class="image fit"><img src="assets/images/Happiness, Tools.png" alt="" /></span>
 <!-- Section -->
 <section>
 	<hr class="major" />
@@ -40,11 +40,54 @@ image: assets/images/Happiness Kopie.png
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>World Happiness Reports 2015 -2023 published by the Sustainable Developement Solutions Network </p>
+				<p>Which social factors have the highest impact on the Happiness scores over the years?</p>
+			</div>
+				<h3>Results</h3>
+				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the
+			           happiness score of a country.</p>
 			</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Happiness Analysis.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
+		</article>
+
+<!-- Section -->
+<section>
+	<hr class="major" />
+	<h2>Analysis</h2>
+
+<div class="features">
+	<article>
+			<div class="content">
+				<h3>Key Questions</h3>
+				<p>Which region are the happiest? Where are the happiest countries?</p>
+			</div>
+				<h3>Results</h3>
+				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
+			           the highest Happiness scores are located in Western Europe. </p>
+			</div>
+		</article>
+		<article>
+			<span class="image fit"><img src="assets/images/Cluster.png" alt="" /></span>
+		</article>
+
+<!-- Section -->
+<section>
+	<hr class="major" />
+	<h2>Analysis</h2>
+
+<div class="features">
+	<article>
+			<div class="content">
+				<h3>Key Questions</h3>
+				<p>Which countries are the happiest over the years?</p>
+			</div>
+				<h3>Results</h3>
+				<p>The country with the highest Happiness score is Finland since 2018.</p>
+			</div>
+		</article>
+		<article>
+			<span class="image fit"><img src="assets/images/Ranking.png" alt="" /></span>
 		</article>
 
 <!-- Section -->
