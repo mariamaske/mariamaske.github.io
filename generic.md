@@ -48,4 +48,7 @@ image: assets/images/Happiness Kopie.png
 			           happiness score of a country.</p>
 			</div>
 		</article>
+  		<article>
+			<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
+		</article>
 		
