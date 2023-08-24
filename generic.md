@@ -49,7 +49,8 @@ image: assets/images/Happiness Kopie.png
 		<article>
 			<span class="image fit"><img src="assets/images/Cluster.png" alt="" /></span>
 		</article>
-  		
+  		</div>
+<div class="features">	
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
@@ -62,4 +63,5 @@ image: assets/images/Happiness Kopie.png
 		<article>
 			<span class="image fit"><img src="assets/images/Cluster.png" alt="" /></span>
 		</article>
+  </div>
   
