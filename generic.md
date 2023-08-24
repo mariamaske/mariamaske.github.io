@@ -26,15 +26,10 @@ image: assets/images/Happiness Kopie.png
 		</article>
 	</div>
 
-<!-- Section -->
-<section>
 <hr class="major" />
 <h2>Tools</h2>
 <span class="image fit"><img src="assets/images/Happiness, Tools.png" alt="" /></span>
 
-</section>
-<!-- Section -->
-<section>
 	<hr class="major" />
 	<h2>Analysis</h2>
 
@@ -51,13 +46,10 @@ image: assets/images/Happiness Kopie.png
   		<article>
 			<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
 		</article>
+	
+ <hr class="major" />
 
- </section>
-<!-- Section -->
-<section>
-  <hr class="major" />
-
-<div class="features">
+	<div class="features">
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
