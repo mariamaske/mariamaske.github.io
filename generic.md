@@ -32,6 +32,7 @@ image: assets/images/Happiness Kopie.png
 
 <hr class="major" />
 <h2>Analysis</h2>
+<div class="features">
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
@@ -46,7 +47,7 @@ image: assets/images/Happiness Kopie.png
 		</article>
 	
  <hr class="major" />
-
+<div class="features">
 <article>
 			<div class="content">
 				<h3>Key Questions</h3>
