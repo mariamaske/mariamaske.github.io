@@ -30,8 +30,8 @@ image: assets/images/Happiness Kopie.png
 <h2>Tools</h2>
 <span class="image fit"><img src="assets/images/Happiness, Tools.png" alt="" /></span>
 
-	<hr class="major" />
-	<h2>Analysis</h2>
+<hr class="major" />
+<h2>Analysis</h2>
 
 <div class="features">
 	<article>
@@ -49,7 +49,7 @@ image: assets/images/Happiness Kopie.png
 	
  <hr class="major" />
 
-	<div class="features">
+<div class="features">
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
