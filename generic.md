@@ -31,23 +31,22 @@ image: assets/images/Happiness Kopie.png
 <span class="image fit"><img src="assets/images/Happiness, Tools.png" alt="" /></span>
 
 <hr class="major" />
-<h2>Analysis</h2>
+<!-- Section -->
+<section>
+<header class="major">
+		<h2>Analysis</h2>
+	</header>
 <div class="features">
 	<article>
-			<div class="content">
-				<h3>Key Questions</h3>
-				<p>Which social factors have the highest impact on the Happiness scores over the years?</p>
-				<h3>Results</h3>
-				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the
+		<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
+		<div class="content">
+			<h3>Key Questions</h3>
+			<p>Which social factors have the highest impact on the Happiness scores over the years?</p>
+			<h3>Results</h3>
+			<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the
 			           happiness score of a country.</p>
 			</div>
 		</article>
-  		<article>
-			<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
-		</article>
-	
-<hr class="major" />
-
-<p><span class="image right"><img src="assets/images/Heatmap.png" alt="" /></span><h3>Key Questions</h3><p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p><h3>Results</h3><p>The correlation heat map shows that the logged GPD per capita has the highest impact on the happiness score of a country.</p></p>
-
-<p><span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+  		
+		
+  
