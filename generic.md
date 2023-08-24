@@ -31,7 +31,8 @@ image: assets/images/Happiness Kopie.png
 <hr class="major" />
 <h2>Tools</h2>
 <span class="image fit"><img src="assets/images/Happiness, Tools.png" alt="" /></span>
-	
+
+</section>
 <!-- Section -->
 <section>
 	<hr class="major" />
@@ -50,7 +51,8 @@ image: assets/images/Happiness Kopie.png
 		<article>
 			<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
 		</article>
-
+</section>
+<section>
 	<hr class="major" />
 <div class="features">
 	<article>
@@ -65,7 +67,8 @@ image: assets/images/Happiness Kopie.png
 		<article>
 			<span class="image fit"><img src="assets/images/Cluster.png" alt="" /></span>
 		</article>
-
+</section>
+<section>
 	<hr class="major" />
 
 <div class="features">
@@ -82,7 +85,7 @@ image: assets/images/Happiness Kopie.png
 		</article>
 </div>
 </section>
-
+<section>
 <hr class="major" />
 <h2>Recommendations for further analysis</h2>
 <ul>
@@ -98,3 +101,4 @@ image: assets/images/Happiness Kopie.png
 <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
 <li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
 </ul> 
+</section>
