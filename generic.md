@@ -50,6 +50,22 @@ image: assets/images/Happiness Kopie.png
 			<span class="image fit"><img src="assets/images/Cluster.png" alt="" /></span>
 		</article>
   		</div>
+<hr class="major" />
+<div class="features">	
+		<article>
+			<div class="content">
+				<h3>Key Questions</h3>
+				<p>Which region are the happiest? Where are the happiest countries?</p>
+				<h3>Results</h3>
+				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
+			           the highest Happiness scores are located in Western Europe. </p>
+			</div>
+		</article>
+		<article>
+			<span class="image fit"><img src="assets/images/Cluster.png" alt="" /></span>
+		</article>
+ 		</div>
+<hr class="major" /> 		
 <div class="features">	
 		<article>
 			<div class="content">
@@ -64,4 +80,22 @@ image: assets/images/Happiness Kopie.png
 			<span class="image fit"><img src="assets/images/Cluster.png" alt="" /></span>
 		</article>
   </div>
-  
+<hr class="major" />
+<div class="content">
+<h2>Recommendations for further analysis</h2>
+<ul>
+					<li>Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.</li>
+					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
+					<li>And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</li>
+</ul> 
+</div>
+
+<hr class="major" />
+<div class="content">
+<h2>Limitations</h2>
+
+<ul>
+<li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
+<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+</ul> 
+</div>
