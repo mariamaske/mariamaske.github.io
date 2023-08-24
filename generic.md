@@ -51,4 +51,19 @@ image: assets/images/Happiness Kopie.png
   		<article>
 			<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
 		</article>
+  <hr class="major" />
+
+<div class="features">
+	<article>
+			<div class="content">
+				<h3>Key Questions</h3>
+				<p>Which social factors have the highest impact on the Happiness scores over the years?</p>
+				<h3>Results</h3>
+				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the
+			           happiness score of a country.</p>
+			</div>
+		</article>
+  		<article>
+			<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
+		</article>
 		
