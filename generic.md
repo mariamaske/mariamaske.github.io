@@ -46,7 +46,8 @@ image: assets/images/Happiness Kopie.png
 			<span class="image fit"><img src="assets/images/Heatmap.png" alt="" /></span>
 		</article>
 	
- <hr class="major" />
+<hr class="major" />
+<h2>Analysis</h2>
 <div class="features">
 <article>
 			<div class="content">
