@@ -62,7 +62,9 @@ image: assets/images/passion.jpg
 		</article>
 	</div>
 </section>
-
+<section>
+	<div>
 		<ul class="actions fit">
-			<li><a href="#" class="button special fit">View Full Portfolio</a></li></ul>
-   
+			<li><a href="{{ 'generic.html' | absolute_url }}" class="button special fit">View Full Portfolio</a></li></ul>
+   </div>
+</section>
