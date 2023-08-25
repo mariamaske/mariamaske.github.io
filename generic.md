@@ -43,7 +43,8 @@ image: assets/images/Happiness Kopie.png
 				<p>Which factors have the highest impact on the Happiness scores?</p>
 				<h3>Results</h3>
 				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the happiness score of a country. </p>
-		</article></div>
+				</div>
+		</article>
 		<article>
 			<div class="content">
 				<h4>Correlation Heat Map of the measures of the Happiness score</h4></div>
@@ -60,11 +61,12 @@ image: assets/images/Happiness Kopie.png
 				<h3>Results</h3>
 				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
 			           the highest Happiness scores are located in Western Europe. </p>
-			
-		</article></div>
+			</div>
+		</article>
 		<article>
   <span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
 		</article>
+	
   		</div>
    
 <hr class="major" /> 
