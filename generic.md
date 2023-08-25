@@ -43,14 +43,16 @@ image: assets/images/Happiness Kopie.png
 				<p>Which factors have the highest impact on the Happiness scores?</p>
 				<h3>Results</h3>
 				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the happiness score of a country. </p>
-			</div>
 		</article>
+		  </div>
+	
 		<article>
-			<div class="content">
-				<h4>Correlation Heat Map of the measures of the Happiness score</h4> 
+<div class="content">
+				<h4>Correlation Heat Map of the measures of the Happiness score</h4></div>
 			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
-		</article></div>
+		</article>
   		</div>
+    
 <hr class="major" />
 <div class="features">	
 		<article>
@@ -59,14 +61,14 @@ image: assets/images/Happiness Kopie.png
 				<p>Which region are the happiest? Where are the happiest countries?</p>
 				<h3>Results</h3>
 				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
-			           the highest Happiness scores are located in Western Europe. </p>
-			</div>
+			           the highest Happiness scores are located in Western Europe. </p></div>
+			
 		</article>
 		<article>
-			<div class="content">
-			<h4>Happiness scores clustered by region</h4>
-			<span class="image fit"><img src="assets/images/Cluster, final.png" alt="" /></span>
-		</article></div>
+<span class="image fit"><img src="assets/images/Cluster, final.png" alt="" /></span>	
+   <div class="content">
+		<h4>Happiness scores clustered by region</h4></div>
+		</article>
  		</div>
 <hr class="major" /> 		
 <div class="features">	
@@ -79,8 +81,8 @@ image: assets/images/Happiness Kopie.png
 		</article></div>
 		<article>
 			<div class="content">
-			<h4>Happiness ranks by country and year</h4> 
-			<span class="image fit"><img src="assets/images/Ranking.png" alt="" /></span></div>
+			<h4>Happiness ranks by country and year</h4></div>
+			<span class="image fit"><img src="assets/images/Ranking.png" alt="" /></span>
 		</article>
   </div>
 <hr class="major" />
@@ -94,6 +96,7 @@ image: assets/images/Happiness Kopie.png
 </div>
 
 <hr class="major" />
+
 <div class="4u 12u$(medium)">
 		<ul class="actions">
 			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">Project Overview</a></li></ul> 
@@ -106,6 +109,7 @@ image: assets/images/Happiness Kopie.png
 		<ul class="actions">
    			<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
 	</div></ul> 
+ </div>
  
 <hr class="major" />
 <div class="content">
