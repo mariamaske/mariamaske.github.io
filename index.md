@@ -65,7 +65,7 @@ layout: default
 			<p>Each year, the Gallup World Poll surveys adult citizens in nearly 160 countries and consists of over 100 global and region-specific questions to calculat the Happiness score of each country. I analysed the open source data to find out if the happiness score has changed between 2015 and 2023.
 </p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'Happiness.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
