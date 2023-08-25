@@ -62,6 +62,7 @@ image: assets/images/passion.jpg
 		</article>
 	</div>
 </section>
+<hr class="major" />
 <section>
 	<div>
 		<ul class="actions fit">
