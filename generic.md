@@ -63,9 +63,9 @@ image: assets/images/Happiness Kopie.png
 			
 		</article></div>
 		<article>
-<span class="image fit"><img src="assets/images/Cluster, final.png" alt="" /></span>	
-   <div class="content">
+   			<div class="content">
 		<h4>Happiness scores clustered by region</h4></div>
+ 		 <span class="image fit"><img src="assets/images/Cluster, final.png" alt="" /></span>	
 		</article>
  		</div>
    
