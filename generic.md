@@ -63,13 +63,12 @@ image: assets/images/Happiness Kopie.png
 			
 		</article></div>
 		<article>
-			<div class="content">
-				<h4>Correlation Heat Map of the measures of the Happiness score</h4></div>
-			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
 		</article>
   		</div>
    
-<hr class="major" /> 		
+<hr class="major" /> 
+
 <div class="features">	
 		<article>
 			<div class="content">
@@ -81,8 +80,6 @@ image: assets/images/Happiness Kopie.png
 			
 		</article></div>
 		<article>
-			<div class="content">
-				<h4>Correlation Heat Map of the measures of the Happiness score</h4></div>
 			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
 		</article>
   		</div>
