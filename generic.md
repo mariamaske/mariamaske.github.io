@@ -46,7 +46,7 @@ image: assets/images/Happiness Kopie.png
 				</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Hap Heatmap, final.png" alt="" /></span>
 		</article>
   		</div>
     
@@ -55,14 +55,14 @@ image: assets/images/Happiness Kopie.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which region are the happiest? Where are the happiest countries?</p>
+				<p>Which region are the happiest? Where are the happiest countries located?</p>
 				<h3>Results</h3>
 				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
 			           the highest Happiness scores are located in Western Europe. </p>
 			</div>
 		</article>
 		<article>
-  <span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/Hap Cluster.png" alt="" /></span>
 		</article>
   		</div>
    
@@ -72,28 +72,19 @@ image: assets/images/Happiness Kopie.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which region are the happiest? Where are the happiest countries?</p>
+				<p>Which countires are the happiest over the years?</p>
 				<h3>Results</h3>
-				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
-			           the highest Happiness scores are located in Western Europe. </p>
+				<p>The country with the highest Happiness score is Finsland since 2018.</p>
 			</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Hap Ranking.png" alt="" /></span>
 		</article>
   		</div>
-    
-<hr class="major" />
-<div class="content">
-<h2>Recommendations for further analysis</h2>
-<ul>
-					<li>Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.</li>
-					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
-					<li>And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</li>
-</ul> 
-</div>
 
 <hr class="major" />
+
+<h2>Further Insights</h2>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
@@ -109,6 +100,17 @@ image: assets/images/Happiness Kopie.png
    	<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
  </div>
   </div>
+  
+<hr class="major" />
+<div class="content">
+<h2>Recommendations for further analysis</h2>
+<ul>
+					<li>Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.</li>
+					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
+					<li>And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</li>
+</ul> 
+</div>
+
 <hr class="major" />
 <div class="content">
 <h2>Limitations</h2>
