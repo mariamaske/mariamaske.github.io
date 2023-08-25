@@ -1,14 +1,11 @@
 ---
 layout: page
-title: World Happiness (2015-2023)
-image: assets/images/passion.jpg
+title: Portfolio
+image: assets/images/passion final.png
 ---
 
 <!-- Section -->
 <section>
-	<header class="major">
-		<h2>Portfolio</h2>
-	</header>
 	<div class="posts">
 		<article>
 			<a href="#" class="image"><img src="assets/images/Happiness Kopie.png" alt="" /></a>
