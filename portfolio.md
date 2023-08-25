@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Portfolio
-image: assets/images/passion final.png
 ---
 
 <!-- Section -->
