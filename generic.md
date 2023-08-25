@@ -47,7 +47,7 @@ image: assets/images/Happiness Kopie.png
 		  </div>
 	
 		<article>
-<div class="content">
+			<div class="content">
 				<h4>Correlation Heat Map of the measures of the Happiness score</h4></div>
 			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
 		</article>
@@ -70,6 +70,7 @@ image: assets/images/Happiness Kopie.png
 		<h4>Happiness scores clustered by region</h4></div>
 		</article>
  		</div>
+   
 <hr class="major" /> 		
 <div class="features">	
 		<article>
