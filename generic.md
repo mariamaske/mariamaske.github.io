@@ -66,7 +66,6 @@ image: assets/images/Happiness Kopie.png
 		<article>
   <span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
 		</article>
-	
   		</div>
    
 <hr class="major" /> 
