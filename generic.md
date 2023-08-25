@@ -4,7 +4,9 @@ title: World Happiness (2015-2023)
 image: assets/images/Happiness Kopie.png
 ---
 
-<h2>Objective</h2>
+<header class="major">
+		<h2>Objective</h2>
+	</header>
 
 <p>Each year, the Gallup World Poll surveys adult citizens in nearly 160 countries and consists of over 100 global and region-specific questions to calculat the Happiness score of each country. A lot has changed globally since 2020 and led to a lot of uncertainty. Therefore we analysis the data to find out if the happiness score has changed between 2015 and 2023. </p>
 
@@ -27,7 +29,9 @@ image: assets/images/Happiness Kopie.png
 	</div>
 
 <hr class="major" />
-<h2>Tools</h2>
+<header class="major">
+		<h2>Tools</h2>
+	</header>
 <span class="image fit"><img src="assets/images/Tools, final.png" alt="" /></span>
 
 <hr class="major" />
@@ -84,7 +88,9 @@ image: assets/images/Happiness Kopie.png
 
 <hr class="major" />
 
-<h2>Further Insights</h2>
+<header class="major">
+		<h2>Further Insights</h2>
+	</header>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
@@ -103,7 +109,9 @@ image: assets/images/Happiness Kopie.png
   
 <hr class="major" />
 <div class="content">
-<h2>Recommendations for further analysis</h2>
+	<header class="major">
+		<h2>Recommendations for further analysis</h2>
+	</header>
 <ul>
 					<li>Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.</li>
 					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
@@ -113,8 +121,9 @@ image: assets/images/Happiness Kopie.png
 
 <hr class="major" />
 <div class="content">
-<h2>Limitations</h2>
-
+<header class="major">
+		<h2>Limitations</h2>
+	</header>
 <ul>
 <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
 <li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
