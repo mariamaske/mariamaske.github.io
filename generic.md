@@ -79,8 +79,8 @@ image: assets/images/Happiness Kopie.png
 				<h3>Results</h3>
 				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
 			           the highest Happiness scores are located in Western Europe. </p>
-			
-		</article></div>
+			</div>
+		</article>
 		<article>
 			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
 		</article>
