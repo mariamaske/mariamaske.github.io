@@ -74,16 +74,19 @@ image: assets/images/Happiness Kopie.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which countries are the happiest over the years?</p>
+				<p>Which region are the happiest? Where are the happiest countries?</p>
 				<h3>Results</h3>
-				<p>The country with the highest Happiness score is Finland since 2018.</p>
+				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
+			           the highest Happiness scores are located in Western Europe. </p>
+			
 		</article></div>
 		<article>
 			<div class="content">
-			<h4>Happiness ranks by country and year</h4></div>
-			<span class="image fit"><img src="assets/images/Ranking.png" alt="" /></span>
+				<h4>Correlation Heat Map of the measures of the Happiness score</h4></div>
+			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
 		</article>
-  </div>
+  		</div>
+    
 <hr class="major" />
 <div class="content">
 <h2>Recommendations for further analysis</h2>
