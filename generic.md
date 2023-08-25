@@ -47,9 +47,9 @@ image: assets/images/Happiness Kopie.png
 		</article>
 		<article>
 			<div class="content">
-				<h4>Correlation Heat Map of the measures of the Happiness score</h4> </div>
+				<h4>Correlation Heat Map of the measures of the Happiness score</h4> 
 			<span class="image fit"><img src="assets/images/Heatmap, final.png" alt="" /></span>
-		</article>
+		</article></div>
   		</div>
 <hr class="major" />
 <div class="features">	
@@ -64,9 +64,9 @@ image: assets/images/Happiness Kopie.png
 		</article>
 		<article>
 			<div class="content">
-			<h4>Happiness scores clustered by region</h4> </div>
+			<h4>Happiness scores clustered by region</h4>
 			<span class="image fit"><img src="assets/images/Cluster, final.png" alt="" /></span>
-		</article>
+		</article></div>
  		</div>
 <hr class="major" /> 		
 <div class="features">	
@@ -76,12 +76,11 @@ image: assets/images/Happiness Kopie.png
 				<p>Which countries are the happiest over the years?</p>
 				<h3>Results</h3>
 				<p>The country with the highest Happiness score is Finland since 2018.</p>
-			</div>
-		</article>
+		</article></div>
 		<article>
 			<div class="content">
-			<h4>Happiness ranks by country and year</h4> </div>
-			<span class="image fit"><img src="assets/images/Ranking.png" alt="" /></span>
+			<h4>Happiness ranks by country and year</h4> 
+			<span class="image fit"><img src="assets/images/Ranking.png" alt="" /></span></div>
 		</article>
   </div>
 <hr class="major" />
@@ -95,13 +94,18 @@ image: assets/images/Happiness Kopie.png
 </div>
 
 <hr class="major" />
-<div class="6u$ 12u$(medium)">
-
+<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-alt">Project Overview</a></li>
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button icon fa-python">Python Scripts</a></li>
-   			<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button icon fa-laptop">Tableau Dashboard</a></li></ul>
-	</div>
+			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">Project Overview</a></li></ul> 
+   	</div>
+		<div class="4u 12u$(medium)">
+		<ul class="actions">
+			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">Python Scripts</a></li></ul> 
+   	</div>
+   	q <div class="4u 12u$(medium)">
+		<ul class="actions">
+   			<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
+	</div></ul> 
  
 <hr class="major" />
 <div class="content">
