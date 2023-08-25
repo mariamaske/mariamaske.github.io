@@ -95,13 +95,20 @@ image: assets/images/Happiness Kopie.png
 
 <hr class="major" />
 
-<div class="6u 12u$(medium)">
+<div class="row">
+	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">Project Overview</a></li>
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">Python Scripts</a></li>
+			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">Project Overview</a></li></ul>
+			 </div>
+	<div class="4u 12u$(medium)">
+		<ul class="actions">	
+			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">Python Scripts</a></li></ul>
+	 </div>
+   	<div class="4u 12u$(medium)">
+		<ul class="actions">	
    	<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
  </div>
- 
+  </div>
 <hr class="major" />
 <div class="content">
 <h2>Limitations</h2>
