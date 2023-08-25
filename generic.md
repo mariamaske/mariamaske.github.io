@@ -105,7 +105,7 @@ image: assets/images/Happiness Kopie.png
 		<ul class="actions">
 			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">Python Scripts</a></li></ul> 
    	</div>
-   	q <div class="4u 12u$(medium)">
+   	<div class="4u 12u$(medium)">
 		<ul class="actions">
    			<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
 	</div></ul> 
