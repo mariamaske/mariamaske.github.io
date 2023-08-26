@@ -108,7 +108,6 @@ title: About Me
             <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
           </ul>
 	 <ul class="icons">
-	{% if site.github_url %}
       <li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li></ul>
         </section>
  
