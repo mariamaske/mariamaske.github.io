@@ -48,6 +48,7 @@ title: About Me
   </div>
   
 <hr class="major" />
+<section>
   <header class="major">
 		<h2>Professional Experiences </h2>
 	</header>
@@ -71,13 +72,14 @@ title: About Me
 	<div class="6u$ 12u$(small)">
 		<ul>
   <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
-<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
-</ul> 
+<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li></ul> 
 	</div>
-	</div>
+	 </div>
  <hr class="major" />
-  <header class="major">
-		<h2>Education</h2>
+  </section>
+<section>	
+<header class="major">
+  <h2>Education</h2>
 	</header>
  
 <div class="row">
@@ -103,7 +105,7 @@ title: About Me
 <li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
 </ul> 
 	</div>
- 
+   </section>
  <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Bachelor of Arts</h3>
