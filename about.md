@@ -6,8 +6,8 @@ title: About Me
 <div class="features">	
 		<article>
 			<div class="content">
-			<p>As a data analyst with an unique educational background in sociology, philosophy, and diversity studies I aim to combine my creative streak and problem-solving passion to improve company decision-making through comprehensive reporting and data visualizations.
-I am deeply curious and love to deep dive into various topics which grants me the ability for drawing connections between complex data sets and uncovering critical insights. While my diverse academic and professional experiences have trained me to offer tailored solutions. </p>
+			<p>As a data analyst with an unique educational background in sociology, philosophy, and diversity studies I aim to combine my creative streak and problem-solving passion to improve company decision-making through comprehensive reporting and data visualizations.</p>
+<p>I am deeply curious and love to deep dive into various topics which grants me the ability for drawing connections between complex data sets and uncovering critical insights. While my diverse academic and professional experiences have trained me to offer tailored solutions.</p>
 </div>
 </article>
 <article>
