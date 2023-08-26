@@ -110,6 +110,6 @@ title: About Me
 	 <ul class="icons">
 	{% if site.github_url %}
       <li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-      {% endif %}
+      {% endif %} </ul>
         </section>
  
