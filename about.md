@@ -75,7 +75,6 @@ title: About Me
 <li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li></ul> 
 	</div>
 	 </div>
- <hr class="major" />
 	
 <section>	
 <header class="major">
