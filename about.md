@@ -49,5 +49,57 @@ title:
 </ul> 
 	</div>
 
+ <div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Bertelsmann SE & Co. KGaA </h3>
+		<h4>Diversity Management Intern,  April – September 2020</h4>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
+<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+</ul> 
+	</div>
+
+ <hr class="major" />
+  <header class="major">
+		<h2>Education</h2>
+	</header>
+ 
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Data Analytics Certification</h3>
+		<h4>Careerfoundryt</h4>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
+<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+</ul> 
+	</div>
+
+ <div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Master of Arts</h3>
+		<h4>(Grade: 1,4), Diversity Studies, 2021</h4>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
+<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+</ul> 
+	</div>
+ 
+ <div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Bachelor of Arts</h3>
+		<h4>(Grade: 1,5), Sociology & Philosophy, 2017</h4>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
+<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+</ul> 
+	</div>
  
  
