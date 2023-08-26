@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-  <section">
+  <section>
 <div class="features">	
 		<article>
 			<div class="content">
