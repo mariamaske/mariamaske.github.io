@@ -6,13 +6,13 @@ title: About Me
     <div class="content">
 <p>As a data analyst with an unique educational background in sociology, philosophy, and diversity studies I aim to combine my creative streak and problem-solving passion to improve company decision-making through comprehensive reporting and data visualizations.
 I am deeply curious and love to deep dive into various topics which grants me the ability for drawing connections between complex data sets and uncovering critical insights. While my diverse academic and professional experiences have trained me to offer tailored solutions. </p>
-<h5>My key skills include:</h5> 
+<h4>My key skills include:</h4> 
 <ul>
   <li>Staffing Distribution: Strategically assigned key medical staff ahead of the flu season using Excel, VLOOKUP, Phython and Tableau for data visualization.</li>
 <li>Ecommerce Buying Patterns: Examined data to identify the correlation between customer buying behavior and ecommerce marketing strategy using NumPy, pandas, Jupyter, matplotblib, and Excel.</li>
 <li>Market Research: Conducted analysis to identify opportunities for a movie rental shop’s transition to an online service using Tableau, Excel and SQL queries.</li>
 </ul> 
-<h5>Specialities:</h5> 
+<h4>Specialities:</h4> 
 <p> Data analysis, Microsoft Excel, data cleaning, statistics, data visualization, requirements gathering, project management, SQL, relational databases, Phython, Tableau </p>
     </div>
     <span class="image object">
