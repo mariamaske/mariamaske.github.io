@@ -76,7 +76,7 @@ title: About Me
 	</div>
 	 </div>
  <hr class="major" />
-  </section>
+	
 <section>	
 <header class="major">
   <h2>Education</h2>
@@ -105,7 +105,7 @@ title: About Me
 <li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
 </ul> 
 	</div>
-   </section>
+	 
  <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Bachelor of Arts</h3>
