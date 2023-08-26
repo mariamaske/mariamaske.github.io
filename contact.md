@@ -1,9 +1,13 @@
+---
+layout: page
+title: Contact Me
+image: assets/images/Contact.png
+---
+
 <!-- Contact Section -->
 <section id="contact">
-  <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Contact Me</h2>
       </div>
     </div>
     <div class="row">
@@ -47,5 +51,4 @@
         </form>
       </div>
     </div>
-  </div>
 </section>
