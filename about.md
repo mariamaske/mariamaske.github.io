@@ -1,12 +1,9 @@
 ---
 layout: page
-title: 
+title: About Me
 ---
   <section id="banner">
     <div class="content">
-      <header>
-        <h2>About Me<br /></h2>
-	         </header>
 <p>During my Data Analyst Career Foundry course, I gained experience with data cleaning and analysis using Excel, SQL, and Python. My curiosity drives me to uncover trends in data sets, and my creativity helps me interpret and communicate the results through effective storytelling in Tableau.
   Now I am excited about new opportunities to improve my skills.</p>
     </div>
@@ -40,7 +37,7 @@ title:
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>PANDA | The WOMEN LEADERSHIP NETWORK</h3>
-		<h4>Project Lead Community & Data, February 21 – present</h4>
+		<h5>Project Lead Community & Data, February 21 – present</h5>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
@@ -109,8 +106,10 @@ title:
           <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
           <ul class="contact">
             <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
-             github_url:https://gitlab.com/u/andrewbanchich 
-	     gitlab_url: https://gitlab.com/u/andrewbanchich
           </ul>
+	 <ul class="icons">
+	{% if site.github_url %}
+      <li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+      {% endif %}
         </section>
  
