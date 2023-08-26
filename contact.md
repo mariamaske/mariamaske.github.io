@@ -6,6 +6,7 @@ image: assets/images/Contact.png
 
 <!-- Contact Section -->
 <section id="contact">
+ <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
       </div>
@@ -50,5 +51,6 @@ image: assets/images/Contact.png
           </div>
         </form>
       </div>
+     </div>
     </div>
 </section>
