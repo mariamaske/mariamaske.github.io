@@ -4,53 +4,46 @@ title: Contact Me
 image: assets/images/Contact.png
 ---
 
-<!-- Contact Section -->
 <section id="contact">
- <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <form action="//formspree.io/{{ site.email }}" method="POST" name="sentMessage" id="contactForm" novalidate>
-          <div class="row control-group">
-            <div class="form-group col-lg-12 floating-label-form-group controls">
-              <label for="name">Name</label>
-              <input type="text" name="name" class="form-control" placeholder="Name" id="name" required
-                data-validation-required-message="Please enter your name.">
-              <p class="help-block text-danger"></p>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contact Us</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                </div>
             </div>
-          </div>
-          <div class="row control-group">
-            <div class="form-group col-lg-12 floating-label-form-group controls">
-              <label for="email">Email Address</label>
-              <input type="email" name="_replyto" class="form-control" placeholder="Email Address" id="email" required
-                data-validation-required-message="Please enter your email address.">
-              <p class="help-block text-danger"></p>
+            <div class="row">
+                <div class="col-lg-12">
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="control-group form-group">
+                                    <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group form-group">
+                                    <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group form-group">
+                                    <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="control-group form-group">
+                                    <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-xl">Send Message</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
             </div>
-          </div>
-          <div>
-            <input type="hidden" name="_subject" value="New submission!">
-            <input type="text" name="_gotcha" style="display:none" />
-          </div>
-          <div class="row control-group">
-            <div class="form-group col-lg-12 floating-label-form-group controls">
-              <label for="message">Message</label>
-              <textarea rows="5" name="message" class="form-control" placeholder="Message" id="message" required
-                data-validation-required-message="Please enter a message."></textarea>
-              <p class="help-block text-danger"></p>
-            </div>
-          </div>
-          <br>
-          <div id="success"></div>
-          <div class="row">
-            <div class="form-group col-lg-12">
-              <button type="submit" class="btn btn-success btn-lg">Send</button>
-            </div>
-          </div>
-        </form>
-      </div>
-     </div>
-    </div>
-</section>
+        </div>
+    </section>
