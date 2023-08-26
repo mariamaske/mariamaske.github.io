@@ -5,8 +5,8 @@ title:
   <section id="banner">
     <div class="content">
       <header>
-        <h2>About Me<br /></h2
-      </header>
+        <h2>About Me<br /></h2>
+	         </header>
 <p>During my Data Analyst Career Foundry course, I gained experience with data cleaning and analysis using Excel, SQL, and Python. My curiosity drives me to uncover trends in data sets, and my creativity helps me interpret and communicate the results through effective storytelling in Tableau.
   Now I am excited about new opportunities to improve my skills.</p>
     </div>
@@ -22,10 +22,12 @@ title:
 		<ul class="actions">
 			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">View Resume</a></li></ul>
 			 </div>
+	
 	<div class="4u 12u$(medium)">
 		<ul class="actions">	
 			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">View Portfolio</a></li></ul>
 	 </div>
+  
    	<div class="4u 12u$(medium)">
 		<ul class="actions">	
    	<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">View LinkedIn</a></li></ul>
