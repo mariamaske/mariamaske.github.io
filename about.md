@@ -19,7 +19,7 @@ I am deeply curious and love to deep dive into various topics which grants me th
 </div>
 </article>
 <article>
-  <span class="image fit"><img src="pic10.jpg" alt="" /></span>
+  <span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span>
 		</article>
   		</div>
   </section>
