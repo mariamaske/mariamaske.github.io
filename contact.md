@@ -6,7 +6,6 @@ image: assets/images/Contact.png
 
 <section id="contact">
         <div class="container">
-            <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Us</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
@@ -15,7 +14,6 @@ image: assets/images/Contact.png
             <div class="row">
                 <div class="col-lg-12">
                     <form name="sentMessage" id="contactForm" novalidate>
-                        <div class="row">
                             <div class="col-md-6">
                                 <div class="control-group form-group">
                                     <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
@@ -41,9 +39,7 @@ image: assets/images/Contact.png
                                 <div id="success"></div>
                                 <button type="submit" class="btn btn-xl">Send Message</button>
                             </div>
-                        </div>
                     </form>
                 </div>
             </div>
-        </div>
     </section>
