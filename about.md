@@ -106,7 +106,7 @@ title: About Me
           <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
           <ul class="contact">
             <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
-	    <li class="fa-github"><a href="https://github.com/mariamaske">{{ site.github }}</a></li>
+	    <li class="fa-github"><a href="https://github.com/mariamaske">{{ site.link }}</a></li>
           </ul>
         </section>
  
