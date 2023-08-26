@@ -69,7 +69,7 @@ title:
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Data Analytics Certification</h3>
-		<h4>Careerfoundryt</h4>
+		<h4>Careerfoundry</h4>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
@@ -101,5 +101,17 @@ title:
 <li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
 </ul> 
 	</div>
- 
+ <hr class="major" />
+  <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Get in touch</h2>
+          </header>
+          <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+          <ul class="contact">
+            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+             github_url:https://gitlab.com/u/andrewbanchich 
+	     gitlab_url: https://gitlab.com/u/andrewbanchich
+          </ul>
+        </section>
  
