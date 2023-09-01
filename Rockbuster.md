@@ -110,7 +110,7 @@ image: assets/images/Rockbuster.png
 <hr class="major" />
 <div class="content">
 	<header class="major">
-		<h2>Recommendations for further analysis</h2>
+		<h2>Recommendations</h2>
 	</header>
 <ul>
 	<li>Regional Marketing: Focus on advertising in the regions Asia, Europe and North America since theses  region have a high revenue.</li>
