@@ -93,7 +93,7 @@ image: assets/images/Instacart.png
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/Python-Instacart/tree/a29b51cb3eded9d9d95365a00c3cef1e6dda9891/Instacart%20Basket%20Analysis%20final/03%20Scripts">Phython scripts</a></li></ul>
+			<li><a href="https://github.com/mariamaske/Python-Instacart/tree/a29b51cb3eded9d9d95365a00c3cef1e6dda9891/Instacart%20Basket%20Analysis%20final/03%20Scripts" class="button special icon fa-edit">Phython scripts</a></li></ul>
 			 </div>
    	<div class="4u 12u$(medium)">
 		<ul class="actions">	
