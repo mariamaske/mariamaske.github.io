@@ -32,7 +32,7 @@ image: assets/images/Gameco.png
 <header class="major">
 		<h2>Tools</h2>
 	</header>
-<span class="image fit"><img src="assets/images/Tools, final.png" alt="" /></span>
+<span class="image fit"><img src="assets/images/GameCo Tools.png" alt="" /></span>
 
 <hr class="major" />
 <!-- Section -->
@@ -44,13 +44,13 @@ image: assets/images/Gameco.png
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which factors have the highest impact on the Happiness scores?</p>
+				<p>How did the total sales changed between 2007 to 2016?</p>
 				<h3>Results</h3>
-				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the happiness score of a country. </p>
+				<p>Total sales dropped all over the world for the retail sector</p>
 				</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Hap Heatmap.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/GameCo Analyse 1.png" alt="" /></span>
 		</article>
   		</div>
     
@@ -59,14 +59,13 @@ image: assets/images/Gameco.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which region are the happiest? Where are the happiest countries located?</p>
+				<p>Which region has the highest propotion of total sales in 2016?</p>
 				<h3>Results</h3>
-				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
-			           the highest Happiness scores are located in Western Europe. </p>
+				<p>There has ben a clear change in regional data in recent years as the especially the share of NA-sales in globals sales decreased, while the the share of JP- sales and EU-sales in global sales increased.</p>
 			</div>
 		</article>
 		<article>
-  <span class="image fit"><img src="assets/images/Hap Cluster.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/GameCo Analyse 2.png" alt="" /></span>
 		</article>
   		</div>
    
@@ -76,13 +75,13 @@ image: assets/images/Gameco.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which countires are the happiest over the years?</p>
+				<p>Which genre has the highest sales?</p>
 				<h3>Results</h3>
-				<p>The country with the highest Happiness score is Finsland since 2018.</p>
+				<p>Certain genres sell better in the different regions. E.g. shooter are the highest selling genre in north america, while puzzle is the highest selling genre in japan.</p>
 			</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Hap Ranking.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/GameCo Analyse 3.png" alt="" /></span>
 		</article>
   		</div>
 
@@ -95,26 +94,29 @@ image: assets/images/Gameco.png
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">Project Overview</a></li></ul>
+			<li><a href="https://www.dropbox.com/scl/fo/bhmdntye836zy6t6h6k2n/h?rlkey=nelada4p40z8fms5ug9bw6rsw&dl=0" class="button special icon fa-file-pdf-o">Detailed data analysis</a></li></ul>
 			 </div>
 	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">Python Scripts</a></li></ul>
+			<li><a href="https://www.dropbox.com/scl/fi/kg9hm1xe7tz6js59wnmzy/Final-Project-Presentation-for-GameCo.pdf?rlkey=pzfuxu6uzbe8j3xy9z5eghrvj&dl=0" class="button special icon fa-edit">Final presentation</a></li></ul>
 	 </div>
    	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-   	<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
+   	<li><a href="https://www.dropbox.com/scl/fi/sap1tx4xpkzrmsfw5qxjt/Project-Reflections.pdf?rlkey=t5e654uiqoqgzdql4w7f74u7o&dl=0" class="button special icon fa-laptop">Project reflection</a></li></ul>
  </div>
   </div>
   
 <hr class="major" />
 <div class="content">
 	<header class="major">
-		<h2>Recommendations for further analysis</h2>
+		<h2>Recommendations</h2>
 	</header>
 <ul>
-					<li>Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.</li>
-					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
-					<li>And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</li>
+					<li>North America market: As the competitiors are losing their retail sales in the NA market,
+GameCo could gain sales by doing targeted marketing for shooter games. 
+</li>
+					<li>Japan market: GameCo should focus their marketing on puzzles and role-playing games in japan. </li>
+					<li>European market: The mayor focus should be on the development of the EU market since has
+    the higehst sales propotion of the total sales at the moment. Genres like action, shooter and sports should be marketed.</li>
 </ul> 
 </div>
