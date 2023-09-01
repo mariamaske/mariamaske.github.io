@@ -32,7 +32,7 @@ image: assets/images/Rockbuster.png
 <header class="major">
 		<h2>Tools</h2>
 	</header>
-<span class="image fit"><img src="assets/images/Tools, final.png" alt="" /></span>
+<span class="image fit"><img src="assets/images/Rockbuster Tools.png" alt="" /></span>
 
 <hr class="major" />
 <!-- Section -->
@@ -44,13 +44,14 @@ image: assets/images/Rockbuster.png
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which factors have the highest impact on the Happiness scores?</p>
+				<p>Which countries and cities have the highest liftime value?</p>
 				<h3>Results</h3>
-				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the happiness score of a country. </p>
+				<p>India and China have the highest count of customers and the highest lifetime value followed by the Phillipines, the United States and Brazil. </p>
+				<p>The Top 10 cities are: Aurora, Iwaki, Cirtus Heightsm Ambattur, Shanwei, Acua, So Leopoldo, Tianjin, Cianjur and Tebokysary.</p>
 				</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Hap Heatmap.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Rockbuster Analyse 1.png" alt="" /></span>
 		</article>
   		</div>
     
@@ -59,14 +60,13 @@ image: assets/images/Rockbuster.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which region are the happiest? Where are the happiest countries located?</p>
+				<p>Which regions have the highest revenue?</p>
 				<h3>Results</h3>
-				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
-			           the highest Happiness scores are located in Western Europe. </p>
+				<p>Asia, Europe and North America are the top regions in terms of revenue. The lowest revenue has Ozeania.</p>
 			</div>
 		</article>
 		<article>
-  <span class="image fit"><img src="assets/images/Hap Cluster.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/Rockbuster Analyse 2.png" alt="" /></span>
 		</article>
   		</div>
    
@@ -76,13 +76,13 @@ image: assets/images/Rockbuster.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which countires are the happiest over the years?</p>
+				<p>What are the top genre by revenue?</p>
 				<h3>Results</h3>
-				<p>The country with the highest Happiness score is Finsland since 2018.</p>
+				<p>The top genre be revenue is sports followed by Sci-Fi, Animation and Drama. Thriller is the bottom genre by revenue.</p>
 			</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Hap Ranking.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Rockbuster Analyse 3.png" alt="" /></span>
 		</article>
   		</div>
 
@@ -95,15 +95,15 @@ image: assets/images/Rockbuster.png
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">Project Overview</a></li></ul>
+			<li><a href="https://github.com/mariamaske/SQLRockbuster/blob/a411f2f168e4584481aae73efb0067d5761b0bc3/Rockbuster_Pra%CC%88sentation.pdf">Final Presentation</a></li></ul>
 			 </div>
 	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">Python Scripts</a></li></ul>
+			<li><a href="https://github.com/mariamaske/SQLRockbuster/blob/a411f2f168e4584481aae73efb0067d5761b0bc3/Rockbuster%20data%20dictionary.pdf" class="button special icon fa-edit">Data dictonary</a></li></ul>
 	 </div>
    	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-   	<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
+   	<li><a href="https://public.tableau.com/views/PreparingforInfluenzaSeason_16828315071710/PreparingforInfluenzaseason2?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
  </div>
   </div>
   
@@ -113,8 +113,10 @@ image: assets/images/Rockbuster.png
 		<h2>Recommendations for further analysis</h2>
 	</header>
 <ul>
-					<li>Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.</li>
-					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
-					<li>And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</li>
+	<li>Regional Marketing: Focus on advertising in the regions Asia, Europe and North America since theses  region have a high revenue.</li>
+	<li>Genre-based Marketing: Focus marketing on movies the genres with the highest revenue: Sports, Sci-Fi, Animation!</li>
+<li>Inventory update: Offer movies in other langues than english, e.g. especially Hindi and Mandarin since India and China have the largest customer base. </li>
+<li>Loyalty programm: Implement a loyalty & recommendation scheme to increase customer retention and to attract new customers.
+</li>
 </ul> 
 </div>
