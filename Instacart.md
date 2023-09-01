@@ -31,7 +31,7 @@ image: assets/images/Instacart.png
 <header class="major">
 		<h2>Tools</h2>
 	</header>
-<span class="image fit"><img src="assets/images/Tools, final.png" alt="" /></span>
+<span class="image fit"><img src="assets/images/Instacrat Tools.png" alt="" /></span>
 
 <hr class="major" />
 <!-- Section -->
@@ -43,13 +43,13 @@ image: assets/images/Instacart.png
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which factors have the highest impact on the Happiness scores?</p>
+				<p>Which days are the busiest?</p>
 				<h3>Results</h3>
-				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the happiness score of a country. </p>
+				<p>The busiest days of the week are the weekends with saturday being the busiest day.</p>
 				</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Hap Heatmap.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Instacart Analyse 1.png" alt="" /></span>
 		</article>
   		</div>
     
@@ -58,14 +58,13 @@ image: assets/images/Instacart.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which region are the happiest? Where are the happiest countries located?</p>
+				<p>When do the customers spent the mpst money?</p>
 				<h3>Results</h3>
-				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
-			           the highest Happiness scores are located in Western Europe. </p>
+				<p>Instacart's customers spend the most mones on friday and saturday with expenditure peaking from 2 am to 7 am. </p>
 			</div>
 		</article>
 		<article>
-  <span class="image fit"><img src="assets/images/Hap Cluster.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/Instacart Analyse 3.png" alt="" /></span>
 		</article>
   		</div>
    
@@ -75,13 +74,13 @@ image: assets/images/Instacart.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which countires are the happiest over the years?</p>
+				<p>What different kind of customers do we have?</p>
 				<h3>Results</h3>
-				<p>The country with the highest Happiness score is Finsland since 2018.</p>
+				<p>There are 4 different kinds of customer profiles: married with dependants, single with dependants, single wih no dependants and married with no dependants. The majority of custormers are parents with a partner followed by single adults.</p>
 			</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Hap Ranking.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Instacart Analyse 2.png" alt="" /></span>
 		</article>
   		</div>
 
@@ -94,26 +93,22 @@ image: assets/images/Instacart.png
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">Project Overview</a></li></ul>
+			<li><a href="https://github.com/mariamaske/Python-Instacart/tree/a29b51cb3eded9d9d95365a00c3cef1e6dda9891/Instacart%20Basket%20Analysis%20final/03%20Scripts">Phython scripts</a></li></ul>
 			 </div>
-	<div class="4u 12u$(medium)">
-		<ul class="actions">	
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">Python Scripts</a></li></ul>
-	 </div>
    	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-   	<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
+   	<li><a href="https://github.com/mariamaske/Python-Instacart/blob/a29b51cb3eded9d9d95365a00c3cef1e6dda9891/Instacart%20Basket%20Analysis%20final/05%20Sent%20to%20client/A4_final_report_.xlsx" class="button special icon fa-laptop">Final report</a></li></ul>
  </div>
   </div>
   
 <hr class="major" />
 <div class="content">
 	<header class="major">
-		<h2>Recommendations for further analysis</h2>
+		<h2>Recommendations</h2>
 	</header>
 <ul>
-					<li>Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.</li>
-					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
-					<li>And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</li>
+					<li>Customer profile marketing: Advertise affordable products within specific departments such as produce, babies and pantry items to middle age group and families who generate significant revenue. Additionally ,targeting the low income profile customers with cost saving promortions would be crucial. </li>
+					<li>Time-based marketing: To increase revenue, schedule ads on Wednesday and Tuesday after 15, as these are the  least busiest days  and  as sales begins to decrease after 15 up to morning 6.</li>
+					<li> High prices product marketing: AInstacart should place more ads for high-priced products in the early morning hours from 4 am until 7 am.</li>
 </ul> 
 </div>
