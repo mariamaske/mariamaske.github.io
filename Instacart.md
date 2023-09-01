@@ -31,7 +31,7 @@ image: assets/images/Instacart.png
 <header class="major">
 		<h2>Tools</h2>
 	</header>
-<span class="image fit"><img src="assets/images/Instacrat Tools.png" alt="" /></span>
+<span class="image fit"><img src="assets/images/Instacart Tools.png" alt="" /></span>
 
 <hr class="major" />
 <!-- Section -->
