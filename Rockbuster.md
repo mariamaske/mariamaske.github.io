@@ -95,7 +95,7 @@ image: assets/images/Rockbuster.png
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/SQLRockbuster/blob/a411f2f168e4584481aae73efb0067d5761b0bc3/Rockbuster_Pra%CC%88sentation.pdf">Final Presentation</a></li></ul>
+			<li><a href="https://github.com/mariamaske/SQLRockbuster/blob/a411f2f168e4584481aae73efb0067d5761b0bc3/Rockbuster_Pra%CC%88sentation.pdf"class="button special icon fa-file-pdf-o"></a></li></ul>
 			 </div>
 	<div class="4u 12u$(medium)">
 		<ul class="actions">	
