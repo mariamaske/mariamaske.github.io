@@ -31,7 +31,7 @@ image: assets/images/Influenza.png
 <header class="major">
 		<h2>Tools</h2>
 	</header>
-<span class="image fit"><img src="assets/images/Tools, final.png" alt="" /></span>
+<span class="image fit"><img src="assets/images/Influenza Tools.png" alt="" /></span>
 
 <hr class="major" />
 <!-- Section -->
@@ -43,13 +43,16 @@ image: assets/images/Influenza.png
 	<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which factors have the highest impact on the Happiness scores?</p>
+				<p>Which age group has the highest number of influenza deaths?</p>
 				<h3>Results</h3>
-				<p>The correlation heat map shows that the logged GPD per capita has the highest impact on the happiness score of a country. </p>
+				<p>The 65+ age-groups have the highest flu death propotion per age group.
+				  They are more likely to suffer fatalities from the flu.
+			The correlation between the number of 65+ citizens per state and the number of influenza deaths is significant. 
+</p>
 				</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Hap Heatmap.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Influenza Analyse 1.png" alt="" /></span>
 		</article>
   		</div>
     
@@ -58,30 +61,42 @@ image: assets/images/Influenza.png
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which region are the happiest? Where are the happiest countries located?</p>
+				<p>Which countries have the highest propotion of inlfuenza deaths?</p>
 				<h3>Results</h3>
-				<p>The happiest region is North America and ANZ (Neuseeland & Australia), while the countries with
-			           the highest Happiness scores are located in Western Europe. </p>
+				<p>California has the highest population propotion of 65+ years olds and therefore the highest average death rate. It is followed by New York, Texas, Florida and Pennsylvania. </p>
 			</div>
 		</article>
 		<article>
-  <span class="image fit"><img src="assets/images/Hap Cluster.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/Influenza Analyse 2.png" alt="" /></span>
 		</article>
   		</div>
-   
+   <hr class="major" />
+<div class="features">	
+		<article>
+			<div class="content">
+				<h3>Key Questions</h3>
+				<p>How high will be the expected inluenza death rate for 2018?</p>
+				<h3>Results</h3>
+				<p>States with a high population propotion of 65+ years olds have a higher influenza death rate regardless of the year. Five of them are expected to suffer from at least 2,4K related flu deaths in 2018.</p>
+			</div>
+		</article>
+		<article>
+  <span class="image fit"><img src="assets/images/Influenza Analyse 3.png" alt="" /></span>
+		</article>
+  		</div>
 <hr class="major" /> 
 
 <div class="features">	
 		<article>
 			<div class="content">
 				<h3>Key Questions</h3>
-				<p>Which countires are the happiest over the years?</p>
+				<p>Where should the additional staff be sent to?</p>
 				<h3>Results</h3>
-				<p>The country with the highest Happiness score is Finsland since 2018.</p>
+				<p>Therefore California, New York, Texas, Florida and Pennsylvania are in high need of additional medical staff. States like Illinois and Ohio have a medium need cocerning additional medical staff.</p>
 			</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Hap Ranking.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Influenza Analyse 4.png" alt="" /></span>
 		</article>
   		</div>
 
@@ -94,26 +109,26 @@ image: assets/images/Influenza.png
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">Project Overview</a></li></ul>
+			<li><a href="https://www.dropbox.com/scl/fi/ehh6tgn6i7lrjnptlrh8n/1.10-Interim-report.pdf?rlkey=kclfvmvqfo9h3k87c6bz4l0nm&dl=0" class="button special icon fa-file-pdf-o">Interim report</a></li></ul>
 			 </div>
 	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">Python Scripts</a></li></ul>
+			<li><a href="https://www.dropbox.com/scl/fo/4wxa2qximfgfigq0zxoaw/h?rlkey=dpke7j4i5ongokm9ml7akla6v&dl=0" class="button special icon fa-edit">Detailed data analysis</a></li></ul>
 	 </div>
    	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-   	<li><a href="https://public.tableau.com/views/HappinesScoreProjekt/GlobalHappiness?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
+   	<li><a href="https://public.tableau.com/views/PreparingforInfluenzaSeason_16828315071710/PreparingforInfluenzaseason2?:language=de-DE&:display_count=n&:origin=viz_share_link" class="button special icon fa-laptop">Tableau Dashboard</a></li></ul>
  </div>
   </div>
   
 <hr class="major" />
 <div class="content">
 	<header class="major">
-		<h2>Recommendations for further analysis</h2>
+		<h2>Recommendations</h2>
 	</header>
 <ul>
-					<li>Collection of further data, especially for the Sub Sahara and Middle East and North Africa regions, in order to close the data gaps here.</li>
-					<li>Investigate more deeply why the overall happiness score for South Asia has fallen so much in the last three years.</li>
-					<li>And it would also be interesting to see to what extent the happiness score per country also differs by gender or age.</li>
+					<li>Deployment Season: Additional medical staff should be deployed during the flu season
+  (November – April).</li>
+					<li>Allocation staffing resources: The staffing resources should be allocated based on the tiers „High-need“, „Medium-need“ and „Low-need“, which is visualized with the tree-map. The states with the highest need of additional staff are California, Florida, New York, Texas and Pennsylvania.</li>	
 </ul> 
 </div>
