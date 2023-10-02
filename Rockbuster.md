@@ -26,6 +26,7 @@ image: assets/images/Rockbuster.png
 				<p> Data Cleaning and Summarizing, Relational Databases, Creating a Data Dictionary, Entity Relationship Diagram (ERD), Filtering Data, Jointing Tables, Subqueries</p>
 			</div>
 		</article>
+	
 	</div>
 
 <hr class="major" />
