@@ -62,6 +62,6 @@ title: Portfolio
 <section>
 	<div>
 		<ul class="actions fit">
-			<li><a href="{{ 'elements.html' | absolute_url }}" class="button special fit">View Full Portfolio</a></li></ul>
+			<li><a href="https://github.com/mariamaske/mariamaske.github.io/blob/200c268be05d87f8c0dce974bd252b91f9dd5fa6/assets/PDFs/DataAnalystPortfolio.pdf" class="button special fit">View Full Portfolio</a></li></ul>
    </div>
 </section>
