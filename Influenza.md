@@ -52,7 +52,7 @@ image: assets/images/Influenza.png
 				</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Influenza Analyse 1.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Influenza, Analyse 2.png" alt="" /></span>
 		</article>
   		</div>
     
@@ -67,7 +67,7 @@ image: assets/images/Influenza.png
 			</div>
 		</article>
 		<article>
-  <span class="image fit"><img src="assets/images/Influenza Analyse 2.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/Influenza, Analyse 3.png" alt="" /></span>
 		</article>
   		</div>
    <hr class="major" />
@@ -81,7 +81,7 @@ image: assets/images/Influenza.png
 			</div>
 		</article>
 		<article>
-  <span class="image fit"><img src="assets/images/Influenza Analyse 3.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/Influenza, Analyse 4.png" alt="" /></span>
 		</article>
   		</div>
 <hr class="major" /> 
