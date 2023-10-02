@@ -66,7 +66,7 @@ image: assets/images/Rockbuster.png
 			</div>
 		</article>
 		<article>
-  <span class="image fit"><img src="assets/images/Rockbuster Analyse 2.png" alt="" /></span>
+  <span class="image fit"><img src="assets/images/Rockbuster, Analyse 2.png" alt="" /></span>
 		</article>
   		</div>
    
@@ -82,7 +82,7 @@ image: assets/images/Rockbuster.png
 			</div>
 		</article>
 		<article>
-			<span class="image fit"><img src="assets/images/Rockbuster Analyse 3.png" alt="" /></span>
+			<span class="image fit"><img src="assets/images/Rockbuster, Analyse 3.png" alt="" /></span>
 		</article>
   		</div>
 
