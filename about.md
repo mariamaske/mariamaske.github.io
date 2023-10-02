@@ -60,8 +60,9 @@ title: About Me
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
-<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+  <li>I coordinate 20 volunteer groups. By collecting and analyzing qualitative data, I uncovered and eliminated weaknesses in the work process. This has saved working time and intensified cooperation with the groups. </li>
+<li>I report on current data and analyses on developments in the community work area and develop recommendations for my superiors.</li>
+<li>I am responsible for our community software tool and for its further development to increase user-friendliness, as well as for fixing any bugs that occur.</li>
 </ul> 
 	</div>
  <div class="row">
@@ -71,8 +72,9 @@ title: About Me
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
-<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li></ul> 
+  <li>By collectiong & analysing data concerning the the attractiveness of employers for future employees in terms of corporate responsibility (environment, equality, diversity) I created guidelines and strategy recommendations. 
+</li>
+</ul> 
 	</div>
 	 </div>
 	
@@ -88,8 +90,8 @@ title: About Me
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
-<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+  <li>Gained analytical skills by learning how to prepare data sets for analysis and by performing various descriptive analyses using Excel, SQL and Python.</li>
+<li>Used analytical methods to extract insights from data, and then presented it in Tableau and PowerPoint utilizing data visualization and storytelling techniques.</li>
 </ul> 
 	</div>
 
@@ -100,8 +102,8 @@ title: About Me
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
-<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+  <li>Acquired knowledge of the different dimensions of inequality, recognizing (societal) patterns and analyzing them through a variety of quantitative and qualitative methods.</li>
+<li>Also acquired knowledge in formulating proposals and strategies based on the preceding (research) analyses.</li>
 </ul> 
 	</div>
 	 
@@ -112,8 +114,8 @@ title: About Me
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-  <li>We don't have data for every year for every country since many countries don't do the survey annualy. We have especially for the year 2022 many missing values.</li>
-<li>Therefore our analysis may not be as accurate and could be slightly biased due to the circumstance that most missing values stem from the region Sub Sahara and Middle east and North Africa.</li>
+  <li>Acquired professional competencies for the analysis of social processes and learned to critically reflect on historical as well as current social developments.</li>
+<li>Acquired knowledge of various methods of empirical social research, including the application of multivariate data analysis and the use of the statistical software program Stata.</li>
 </ul> 
 	</div>
   <!-- Section -->
@@ -122,7 +124,7 @@ title: About Me
           <header class="major">
             <h2>Get in touch</h2>
           </header>
-          <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+          <p>Please contact me using the details shown below.</p>
           <ul class="contact">
             <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
 	    <li class="fa-github"><a href="#">{{ site.github_url }}</a></li>
