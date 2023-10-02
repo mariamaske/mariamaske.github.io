@@ -35,11 +35,11 @@ title: About Me
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/blob/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/Open%20Data%20%E2%80%A2%20Reflection%20Happiness%20Data.pdf" class="button special icon fa-file-pdf-o">View Resume</a></li></ul>
+			<li><a href="https://github.com/mariamaske/mariamaske.github.io/blob/200c268be05d87f8c0dce974bd252b91f9dd5fa6/assets/PDFs/DATA%20ANALYST%20CV.pdf" class="button special icon fa-file-pdf-o">View Resume</a></li></ul>
 			 </div>
 	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-			<li><a href="https://github.com/mariamaske/WorldHappiness15-23/tree/0a9e1e3a55d01b41fcb21c3ab5943bb274b6a9a2/World%20Happiness%20Data!/Scripts" class="button special icon fa-edit">View Portfolio</a></li></ul>
+			<li><a href="https://github.com/mariamaske/mariamaske.github.io/blob/200c268be05d87f8c0dce974bd252b91f9dd5fa6/assets/PDFs/DataAnalystPortfolio.pdf" class="button special icon fa-edit">View Portfolio</a></li></ul>
 	 </div>
    	<div class="4u 12u$(medium)">
 		<ul class="actions">	
@@ -56,7 +56,7 @@ title: About Me
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>PANDA | The WOMEN LEADERSHIP NETWORK</h3>
-		<h5>Project Lead Community & Data, February 21 – present</h5>
+		<h4>Project Lead Community & Data, February 21 – present</h4>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
