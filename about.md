@@ -11,7 +11,7 @@ title: About Me
 </div>
 </article>
 <article>
-  <span class="image fit"><img src="assets/images/Profilbild_Maria_Maske.jpg" alt="" /></span>
+  <span class="image object"><img src="assets/images/Profilbild_Maria_Maske.jpg" alt="" /></span>
 		</article>
   		</div>
   </section>
