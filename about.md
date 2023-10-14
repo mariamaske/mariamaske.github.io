@@ -35,11 +35,11 @@ title: About Me
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://github.com/mariamaske/mariamaske.github.io/blob/e6a9ee91439fd18284a80526ccb2f05ce07ff2f7/assets/PDFs/DATA%20ANALYST%20CV.pdf" class="button special icon fa-file-pdf-o">View Resume</a></li></ul>
+			<li><a href="https://github.com/mariamaske/mariamaske.github.io/blob/935fe6da3bb32c136d566737db74e45cc25174f2/assets/PDFs/DATA%20ANALYST%20CV.pdf" class="button special icon fa-file-pdf-o">View Resume</a></li></ul>
 			 </div>
 	<div class="4u 12u$(medium)">
 		<ul class="actions">	
-			<li><a href="https://github.com/mariamaske/mariamaske.github.io/blob/200c268be05d87f8c0dce974bd252b91f9dd5fa6/assets/PDFs/DataAnalystPortfolio.pdf" class="button special icon fa-edit">View Portfolio</a></li></ul>
+			<li><a href="https://github.com/mariamaske/mariamaske.github.io/blob/935fe6da3bb32c136d566737db74e45cc25174f2/assets/PDFs/DataAnalystPortfolio.pdf" class="button special icon fa-edit">View Portfolio</a></li></ul>
 	 </div>
    	<div class="4u 12u$(medium)">
 		<ul class="actions">	
